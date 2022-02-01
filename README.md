@@ -1,0 +1,2 @@
+# MegaMacro
+Macro para MuOnline
